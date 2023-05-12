@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aidyn. Currently I'm working as Software Developer at N-iX. 
+I'm Aidyn. Currently I'm working as Software Developer at [N-iX](https://www.n-ix.com/).
 
 I'm a Frontend Developer skilled in JavaScript/TypeScript, React/Redux, React-Native, Next.js, Apollo Client, Node.js, Express.js.
 
